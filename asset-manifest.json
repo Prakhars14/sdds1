@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb2bb18e.chunk.css",
+    "main.js": "/static/js/main.d5d5676b.chunk.js",
+    "main.js.map": "/static/js/main.d5d5676b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f49b074.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f49b074.js.map",
+    "static/js/2.2db87706.chunk.js": "/static/js/2.2db87706.chunk.js",
+    "static/js/2.2db87706.chunk.js.map": "/static/js/2.2db87706.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eb2bb18e.chunk.css.map": "/static/css/main.eb2bb18e.chunk.css.map",
+    "static/js/2.2db87706.chunk.js.LICENSE.txt": "/static/js/2.2db87706.chunk.js.LICENSE.txt",
+    "static/media/02.4af37911.jpg": "/static/media/02.4af37911.jpg",
+    "static/media/03.220ba6e7.jpg": "/static/media/03.220ba6e7.jpg",
+    "static/media/04.9550c8b4.jpg": "/static/media/04.9550c8b4.jpg",
+    "static/media/05.9932614c.jpg": "/static/media/05.9932614c.jpg",
+    "static/media/academics.1a50840f.jpg": "/static/media/academics.1a50840f.jpg",
+    "static/media/applyad.29068273.jpg": "/static/media/applyad.29068273.jpg",
+    "static/media/car2.22616d46.jpg": "/static/media/car2.22616d46.jpg",
+    "static/media/car3.01961323.jpg": "/static/media/car3.01961323.jpg",
+    "static/media/cover.cf16ed7c.jpg": "/static/media/cover.cf16ed7c.jpg",
+    "static/media/lgo.b123aebf.jpg": "/static/media/lgo.b123aebf.jpg",
+    "static/media/manager1.8aba6052.jpg": "/static/media/manager1.8aba6052.jpg",
+    "static/media/principal.74aa44ab.jpg": "/static/media/principal.74aa44ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f49b074.js",
+    "static/js/2.2db87706.chunk.js",
+    "static/css/main.eb2bb18e.chunk.css",
+    "static/js/main.d5d5676b.chunk.js"
+  ]
+}
